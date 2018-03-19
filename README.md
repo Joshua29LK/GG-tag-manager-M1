@@ -12,7 +12,7 @@ Google Tag Manager, for the majority of shop owner, is probably a new and diffic
 **Automatically integrate Google Tag Manager tool to websites.**
 Magento Google Tag Manager extension frees admins from adding the snippet of tracking code manually. Instead, tags and code snippets are directly entered to your sites. Moreover, via Google Tag Manager feature, transaction data (id, affiliation, shipping, tax,...) and item data (name, id, price,...) are automatically transferred to Google analytics for further marketing purposes.
 If admin wants to enter codes by hand, then just disable Google Tag Manager in backend config.
-https://bsscommerce.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/configuration_-_magento_google_tag_manager.png
+![configuration_-_magento_google_tag_manager.png](https://bsscommerce.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/c/o/configuration_-_magento_google_tag_manager.png)
 
 ## 3. Other Useful Magento 2 Extensions Recommended for Your Ecommerce Store
 
