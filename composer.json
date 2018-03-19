@@ -1,10 +1,10 @@
 {
-    "name": "bsscommerce/GG-tag-manager-m1",
+    "name": "bsscommerce/gg-tag-manager-m1",
     "type": "magento2-module",
     "version": "1.0.0",
     "description": "GG tag manager m1",
-    "keywords": ["bsscommerce","GG-tag-manager-m1"],
-    "homepage": "https://github.com/Joshua29LK/GG-tag-manager-m1",
+    "keywords": ["bsscommerce","gg-tag-manager-m1"],
+    "homepage": "https://github.com/Joshua29LK/gg-tag-manager-m1",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bss\\GG-tag-manager-m1\\": ""
+            "Bss\\gg-tag-manager-m1\\": ""
         }
     }
 }
